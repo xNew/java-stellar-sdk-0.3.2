@@ -13,7 +13,7 @@ import static com.google.common.base.Preconditions.checkNotNull;
  */
 public class Network {
     private final static String PUBLIC = "Public Global Stellar Network ; September 2015";
-    private final static String TESTNET = "Test SDF Network ; September 2015";
+    private final static String TESTNET = "Test Global Action Network ;20180101";
     private static Network current;
 
     private final String networkPassphrase;
